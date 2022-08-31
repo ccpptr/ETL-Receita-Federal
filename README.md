@@ -58,4 +58,4 @@ REF:
 DICAS:
 
     Leia atentamente a página da receita federal – lá você encontrará detalhes de como as tabelas são relacionadas e, também, o dicionário de dados de cada tabela.
-    Use o a lib pandas.
+    Use a lib pandas.
